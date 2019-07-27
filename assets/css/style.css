@@ -1,0 +1,48 @@
+        body {
+            background-image: url("https://images.theconversation.com/files/219953/original/file-20180522-51095-1khjk0s.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
+            /*background-image: url("../images/Africa.jpg");*/
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        .card-body {
+            background-color: #ddeb25;
+            height: 550px;
+            margin: 60px;
+            opacity: 0.9;
+        }
+        
+        h1 {
+            font-family: 'Fascinate Inline', cursive;
+        }
+        
+        .btn {
+            border: hidden;
+            width: 300px;
+            margin-top: 100px;
+            background-color: hsla(319, 38%, 78%, 0.884);
+            border: 1px solid green;
+        }
+        
+        .choice {
+            width: 400px;
+            border: hidden;
+            background-color: #ddeb25;
+        }
+        
+        .replay {
+            width: 300px;
+            border: hidden;
+            background-color: #ddeb25;
+        }
+        
+        @media screen and (max-width: 640px) {
+            .btn {
+                width: 100%;
+                margin-top: 100px;
+            }
+            h1,
+            h2 {
+                font-size: 100%;
+            }
+        }
