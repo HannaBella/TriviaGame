@@ -41,6 +41,12 @@
                 width: 100%;
                 margin-top: 100px;
             }
+            .choice {
+                width: 100%;
+            }
+            .replay {
+                width: 100%;
+            }
             h1,
             h2 {
                 font-size: 100%;
