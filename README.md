@@ -10,7 +10,7 @@
  * Technology used to build this app:
     - html, css, bootstrap, JavaScript, jquery, and timer.
   
- ## Contributor Hanna Tefera 
- 
  ### Trivia Game APP
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TriviaGame.png" height=300 width=400>
+
+ ## Contributor Hanna Tefera 
